@@ -1,0 +1,7 @@
+PROMPTS PARA GENERAR MAQUETAS EN IA:
+
+1. PROMPT V0.DEV:
+"Create a modern, clean web dashboard for a Motorcycle Workshop Management SaaS called 'MotoGest'. Dark navy sidebar with menu items: Dashboard, Clients & Bikes, Work Orders, Warranties, Team. The main screen shows a vehicle check-in form with: 1) Client info card, 2) Motorcycle details (plate ABC-12D, Yamaha MT-03), 3) Textarea for engine noise/issues, 4) Mechanic assignment dropdown, 5) A photo upload gallery card showing vehicle condition thumbnails with tags (scratch on exhaust, odometer reading). Use Tailwind CSS, modern typography (Inter), rounded corners, professional slate and cobalt blue color scheme."
+
+2. PROMPT MIDJOURNEY (16:9):
+"UI/UX design mockup of a Motorcycle Repair Workshop web dashboard, displaying a clean order entry interface with motorcycle inspection photo gallery and warranty status cards (green and red badges), modern clean SaaS software, Figma style, flat clean vector UI, displayed on a MacBook Pro screen in a clean office setting, 8k resolution, minimalist, ultra realistic --ar 16:9"

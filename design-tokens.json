@@ -1,0 +1,15 @@
+{
+  "name": "MotoGest UI Kit",
+  "colors": {
+    "primary": "#2563EB",
+    "secondaryDark": "#0F172A",
+    "slateBay": "#1E293B",
+    "bgGeneral": "#F8FAFC",
+    "warrantyActive": "#10B981",
+    "warrantyExpired": "#EF4444"
+  },
+  "typography": {
+    "sans": "Plus Jakarta Sans, sans-serif",
+    "mono": "JetBrains Mono, monospace"
+  }
+}
